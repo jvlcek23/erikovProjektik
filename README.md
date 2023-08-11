@@ -1,0 +1,2 @@
+# erikovProjektik
+cypress initial setup
